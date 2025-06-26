@@ -4,7 +4,7 @@
 
 ---
 
-## ✨ Proje Çıktısı
+## ✨ Proje Arayüzü
 ![image](https://github.com/user-attachments/assets/b30f6dad-9e31-4112-90ad-06a89e1c7d3e)
 
 ---
@@ -23,6 +23,18 @@ Görevlerinizi tarihe göre kolayca takip edin, tamamlananları işaretleyin ve 
 - 💾 Değişiklikleri hızlıca kaydetme  
 - 📊 SQLite veritabanı ile kalıcı veri yönetimi  
 - 🖥️ Kullanıcı dostu sade arayüz  
+
+---
+
+## 🚀 Kullanılan Araçlar ve Teknolojiler
+
+| Araç / Teknoloji               | Açıklama                                                       |
+|-------------------------------|---------------------------------------------------------------|
+| 🐍 **Python 3**                | Projenin ana programlama dili                                 |
+| 🖥️ **PyQt5**                   | Python ile masaüstü GUI uygulamaları geliştirmek için kullanılan framework |
+| 🐬 **SQLite**                  | Hafif, dosya tabanlı veritabanı                               |
+| 🐱 **DB Browser for SQLite**   | SQLite veritabanını görselleştirmek ve yönetmek için kullanılan ücretsiz araç |
+| 🛠️ **PyCharm**                 | Python geliştirme ortamı (IDE)                                |
 
 ---
 
