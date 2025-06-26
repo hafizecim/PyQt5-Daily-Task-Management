@@ -4,6 +4,11 @@
 
 ---
 
+## ✨ Proje Çıktısı
+![image](https://github.com/user-attachments/assets/b30f6dad-9e31-4112-90ad-06a89e1c7d3e)
+
+---
+
 ## ✨ Proje Hakkında
 
 Modern ve **şık PyQt5** arayüzü ile geliştirilmiş, SQLite destekli günlük görev yönetimi uygulaması.  
